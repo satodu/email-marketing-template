@@ -1,0 +1,18 @@
+<mj-section   padding-top="20px" background-color="#FFFFFF">
+	<mj-column>
+	  <mj-text font-size="16px" align="center" >
+	    <p>WannaCry é um ataque de ransomware que já infectou mais de 250mil computadores em mais de 150 países, não seja o próximo! Uma vez que um computador é infectado, o vírus imediamentamente procura outras máquinas vulneraveis em sua rede, comprometendo toda a segurança do seu negócio.</p>
+
+		<p>O Barracuda Advanced Threat Protection (ATP) combina tecnologias comportamentais, heurísticas e de sandboxing para proteger você e sua rede de ataques direcionados e até mesmo ainda não identificados. O ATP verifica automaticamente e em tempo real anexos de e-mais. Anexos suspeitos são detonados em um ambiente de Sanbox, onde o comportamento é abservado.</p>
+
+		<p>Até o dia 31 de maio de 2017, sua organização adquire o Barracuda Advanced Threat Protection com 25% de desconto!</p>
+	  </mj-text>
+	</mj-column>
+</mj-section>
+<mj-section background-color="#FFFFFF" padding-bottom="20px">
+	<mj-column>
+		<mj-button background-color="#0f75bd" color="#fff" border-radius="1px" href="https://forms.zohopublic.com/zohotom345/form/ContactForm/formperma/29GH0616de6jfmaj1a620169M" padding-bottom="10" padding-top="0" font-size="30px">
+            PROTEJA-SE AGORA
+          </mj-button>
+	</mj-column>
+</mj-section>

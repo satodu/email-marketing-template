@@ -1,0 +1,14 @@
+<mj-section padding-bottom="20px" padding-top="20px">
+	<mj-group>
+	  <mj-column>
+	    <mj-text align="left" mj-class="preheader">
+	      Se não conseguir acessar
+	    </mj-text>
+	  </mj-column>
+	  <mj-column>
+	    <mj-text align="right" mj-class="preheader">
+	      <a href="https://www.clm.com.br/emkt/barracuda/20170519-barracuda-promocao/" target="_blank"> Clique aqui </a>
+	    </mj-text>
+	  </mj-column>
+	</mj-group>
+</mj-section>

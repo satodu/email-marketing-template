@@ -1,0 +1,19 @@
+{
+  "name": "20170519-barracuda-promocao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://edsato10@bitbucket.org/interaction10/20170519-barracuda-promocao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/interaction10/20170519-barracuda-promocao#readme",
+  "dependencies": {
+    "mjml": "^3.3.2"
+  }
+}
